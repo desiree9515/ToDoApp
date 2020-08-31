@@ -2,4 +2,4 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
-<h3>API para To Do List com NestJS + MondoDB</h3>
+<p>Criação de API feita com NestJS + MondoDB para uma To Do List</p>
